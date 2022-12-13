@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @angularOcean
-- 👀 I’m interested in learning how to program, rock climbing, and running
+- 👀 I’m was formerly in the field of Public Health and most recently a Software Development Intern at Amazon
 - 🌱 I’m currently working on my BS in Computer Science
 - 💞️ I’m looking for work as a developer and am open to both full time positions as well as internships
 - 📫 How to reach me: through a direct message
