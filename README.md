@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @angularOcean
-- 👀 I’m was formerly in the field of Public Health and most recently a Software Development Intern at Amazon
-- 🌱 I’m currently working on my BS in Computer Science
+- 👀 I have a Masters in Public Health and a decade of professional work experience in non-profits and the government and was most recently a Software Development Intern at Amazon
+- 🌱 I’m currently working on my second BS in Computer Science
 - 💞️ I’m looking for work as a developer and am open to both full time positions as well as internships
 - 📫 How to reach me: through a direct message
 
